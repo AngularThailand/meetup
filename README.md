@@ -8,19 +8,23 @@
 
 ### [November](https://www.facebook.com/events/536523386844377) @[7 Peaks Software](https://fb.me/7peakssoftware)
 
-1. Intro to ShadowDom and a new ViewEncapsulation in Angular 7, Dave - [Youtube](https://youtu.be/tHIcuk7Gm4c)
+1. Intro to ShadowDom and a new ViewEncapsulation in Angular 7, [Dave](https://fb.me/dave.akkradet) Akkradet - [Youtube](https://youtu.be/tHIcuk7Gm4c)
 1. Recap The Theory of Anular Ivy, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Youtube](https://youtu.be/aCmjNui0-Hc)
-1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://www.youtube.com/watch?v=Lt5f0_tiRSM)
+1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM)
+
+### [October](https://facebook.com/events/326311217947848/) @[LearnHub](https://fb.me/LearnHubCoLearningSpace)
+
+1. What's New in Angular 7
+1. Continuous everything with Angular, TravisCI, and Firebase Hosting
+1. Public private protected จำเป็นไหม
+1. Fullstack Apollo App with Autodigi
+1. Angular + .NET Core = Awesome
+1. Angular x Line LIFF
+1. Angular Boost up performance
+
+Was live in [Facebook](https://facebook.com/oddsteam/videos/1032265250267571)
 
 ### ...
-
-1. What's New in Angular 7? 18.10 - 18.30
-2. Continuous everything with Angular, TravisCI, and Firebase Hosting 18.30 - 18.50
-3. Public private protected จำเป็นไหม 18.50 - 19.10
-4. Fullstack Apollo App with Autodigi 19.10 - 19.30
-5. Angular + .NET Core = Awesome 19.30 - 19.50
-6. Angular x Line LIFF 19.50 - 20.10
-7. Angular Boost up performance 20.10 - 20.30
 
 1. View Encapsulation by Ole@ScoutOut
 2. NgRx Selector From Store To View by JaMe
