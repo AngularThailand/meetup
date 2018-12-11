@@ -41,10 +41,3 @@ Was live in [Facebook](https://facebook.com/oddsteam/videos/1032265250267571)
 1. Create package on NPM by Khun Au 7.00 P.M. - 7.30 P.M.
 2. Make readable code in Angular with Lettable (Pipe) Operator by Khun Dave@7 Peaks. 7.30 PM - 8.00 PM
 3. Angular CI/CD with DroneCI by Khun Ball@Home 8.00 - 8.30 P.M.
-
-
-- Java to Angular ทำไมง่ายจัง Sommai Krangpanich @PnP Solution
-- NestJS - Node.js Framework inspired by Angular โดย Arnon Kaewprasert@Humanize
-- Testing in Angular Phongsak Ritpitakphong & Chokchai Phatharamalai @Odds
-- เริ่มต้นเขียน Test (Side) Effect กัน โดย Siwat Kaolueng
-- NGXS - State Management For Angular โดย Chaiyapong Phong Lapliengtrakul @ 3DS Interactive
