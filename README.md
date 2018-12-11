@@ -24,6 +24,14 @@
 
 Was live in [Facebook](https://facebook.com/oddsteam/videos/1032265250267571)
 
+### [September](https://facebook.com/events/238868826802487/) @[BIG Co-Working](https://fb.me/bigcowork)
+
+1. Java to Angular ทำไมง่ายจัง, [Sommai](https://fb.me/sommaik) Krangpanich @[PnP Solution](https://fb.me/pnpsolution)
+2. NestJS - Node.js Framework inspired by Angular, [Arnon](https://fb.me/arnaphanasati) Kaewprasert @[Humanize](https://humanize.co.th/)
+3. Testing in Angular, [Jane](https://fb.me/phongsak) Phongsak Ritpitakphong & [Jua](https://fb.me/juacompe) Chokchai Phatharamalai @[ODDS](https://fb.me/oddsteam)
+4. เริ่มต้นเขียน Test (Side) Effect กัน, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng @The Earth
+5. NGXS - State Management For Angular โดย [Phong](https://fb.me/paullee3ds) Chaiyapong Lapliengtrakul @[3DS Interactive](https://fb.me/3dsinteractive)
+
 ### ...
 
 1. View Encapsulation by Ole@ScoutOut
