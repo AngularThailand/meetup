@@ -36,20 +36,20 @@ Was live in [Facebook](https://facebook.com/oddsteam/videos/1032265250267571)
 
 Panel Discussion
 
-## 2017
-
-### [Auguest](https://www.meetup.com/7Peaks-Tech-Events-Bangkok/events/242217583) 24 @[7 Peaks Software](https://fb.me/7peakssoftware)
-
-- Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet
-
-### ...
+### [May](https://www.eventpop.me/e/3518-angular-meetup-th) 16 @[Hangar](https://fb.me/HANGARCoworkingSpace)
 
 1. View Encapsulation by Ole@ScoutOut
 2. NgRx Selector From Store To View by JaMe
 3. Ivy Demo by Au
 
+### [Jan](https://www.eventpop.me/e/2925) 30 @[Hangar](https://fb.me/HANGARCoworkingSpace)
+
 1. Create package on NPM by Khun Au 7.00 P.M. - 7.30 P.M.
-2. 
 2. Make readable code in Angular with Lettable (Pipe) Operator by Khun Dave@7 Peaks. 7.30 PM - 8.00 PM
-3. 
 3. Angular CI/CD with DroneCI by Khun Ball@Home 8.00 - 8.30 P.M.
+
+## 2017
+
+### [Auguest](https://www.meetup.com/7Peaks-Tech-Events-Bangkok/events/242217583) 24 @[7 Peaks Software](https://fb.me/7peakssoftware)
+
+- Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet
