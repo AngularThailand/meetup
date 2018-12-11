@@ -42,6 +42,12 @@ Panel Discussion
 2. NgRx Selector From Store To View by JaMe
 3. Ivy Demo by Au
 
+### [March](https://www.eventpop.me/e/3063-angular-meetup-march-2018) 5 @[LINK Collaboration Space](https://fb.me/linkspacebkk)
+
+1. RouteReuseStrategy by Khun Tum
+2. Angular 6.0 Panel Discussion
+3. Networking
+
 ### [Jan](https://www.eventpop.me/e/2925) 30 @[Hangar](https://fb.me/HANGARCoworkingSpace)
 
 1. Create package on NPM by Khun Au 7.00 P.M. - 7.30 P.M.
