@@ -12,6 +12,8 @@
 1. Recap The Theory of Anular Ivy, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Youtube](https://youtu.be/aCmjNui0-Hc)
 1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM)
 
+Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
+
 ### [October](https://facebook.com/events/326311217947848/) 30 @[LearnHub](https://fb.me/LearnHubCoLearningSpace)
 
 1. What's New in Angular 7
@@ -22,7 +24,7 @@
 1. Angular x Line LIFF
 1. Angular Boost up performance
 
-Was live in [Facebook](https://facebook.com/oddsteam/videos/1032265250267571)
+Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
 
 ### [September](https://facebook.com/events/238868826802487/) 12 @[BIG Co-Working](https://fb.me/bigcowork)
 
@@ -34,7 +36,7 @@ Was live in [Facebook](https://facebook.com/oddsteam/videos/1032265250267571)
 
 ### [June](https://www.facebook.com/events/280593772483436/) 21 @[CØDE CRAFT](https://fb.me/codecraftbkk)
 
-Panel Discussion
+- Panel Discussion
 
 ### [May](https://www.eventpop.me/e/3518-angular-meetup-th) 16 @[Hangar](https://fb.me/HANGARCoworkingSpace)
 
