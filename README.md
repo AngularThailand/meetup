@@ -17,11 +17,11 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 ### [October](https://facebook.com/events/326311217947848/) 30 @[LearnHub](https://fb.me/LearnHubCoLearningSpace)
 
 1. What's New in Angular 7 [Slide](https://slides.com/leelorz/deck/)
-1. Continuous everything with Angular, TravisCI, and Firebase Hosting [Slide](https://goo.gl/sBUh9R) [CircleCI + TravisCI Repo](https://github.com/angularthailand/who-use-angular-in-thailand/) [TravisCI](https://github.com/perjerz3434/continuous-everything)
+1. Continuous everything with Angular, TravisCI, and Firebase Hosting [Slide](https://goo.gl/sBUh9R) [CircleCI + TravisCI Repo](https://github.com/angularthailand/who-use-angular-in-thailand/) [TravisCI Repo](https://github.com/perjerz3434/continuous-everything)
 1. Public private protected จำเป็นไหม [Slide](https://goo.gl/KWopaa)
 1. Fullstack Apollo App with Autodigi [Slide](https://goo.gl/paM1F3) [Repo](https://github.com/tonmanna/labGQLNgMeetup)
 1. Angular + .NET Core = Awesome [Slide](https://goo.gl/4XnH1C)
-1. Angular x Line LIFF [Slide](https://goo.gl/CktASq) [Slide](https://github.com/ninxxxxx/ng-x-line-liff)
+1. Angular x Line LIFF [Slide](https://goo.gl/CktASq) [Repo](https://github.com/ninxxxxx/ng-x-line-liff)
 1. Angular Boost up performance [Slide](https://goo.gl/MMU3vM)
 
 Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
