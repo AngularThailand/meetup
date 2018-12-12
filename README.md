@@ -68,7 +68,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### [June](https://medium.com/angular-in-thailand/72858e51682b) 20 @[SET](https://fb.me/set.or.th)
 
-### March 28
+### March 28 @[SCK Dojo](https://www.facebook.com/pages/SCK-Dojo/149871682443357)
 
 - Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) | [Evidence](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
 - Nx, [Ball](https://fb.me/ball6847) Porawit Poboonma | [Evidence](https://www.facebook.com/groups/angularjs.th/permalink/981378778703455/)
