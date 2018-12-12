@@ -30,7 +30,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 1. Java to Angular ทำไมง่ายจัง, [Sommai](https://fb.me/sommaik) Krangpanich @[PnP Solution](https://fb.me/pnpsolution) [Slide](https://drive.google.com/file/d/1NMnhS8zfQR4WkEdt8sCFUloJ3J1yLopc/view?fbclid=IwAR2P3NVe1ZYvCwRtM4NcYOh3_FqJm6aeileUeGBEVW9mZJQ8ovTnu6Z4NDY)
 2. NestJS - Node.js Framework inspired by Angular, [Arnon](https://fb.me/arnaphanasati) Kaewprasert @[Humanize](https://humanize.co.th/) [Slide](https://drive.google.com/file/d/1u1dEu-9fjBgSpVoWlpMoSy9mtF3UHa6c/view?fbclid=IwAR0O0sqJIocOj_9oDd_5BrkhfpJ-KNtQi1AAvFVNzzDjkHLkJU5KDF0_kpY)
-3. Testing in Angular, [Jane](https://fb.me/phongsak) Phongsak Ritpitakphong & [Jua](https://fb.me/juacompe) Chokchai Phatharamalai @[ODDS](https://fb.me/oddsteam) [Slide](https://www.slideshare.net/juacompe/testing-in-x-where-x-is-angular) [Repo](https://github.com/juacompe/toh-pt6)
+3. Testing in Angular, [Roof](https://www.facebook.com/roofimon.class) Twin Panichsombat & [Jua](https://fb.me/juacompe) Chokchai Phatharamalai @[ODDS](https://fb.me/oddsteam) [Slide](https://www.slideshare.net/juacompe/testing-in-x-where-x-is-angular) [Repo](https://github.com/juacompe/toh-pt6)
 4. เริ่มต้นเขียน Test (Side) Effect กัน, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng @The Earth [Slide](https://docs.google.com/presentation/d/1sGGxeHbAMuqgvjvh2OA_VWr7DWCEhjrO_xqc2lu0_zE/edit?fbclid=IwAR3DjiMfV-DhGhM7FhB2AArg_Y9edPIMtY3C-EH0B-RpUDATuBa8vqwyRHE)
 5. NGXS - State Management For Angular โดย [Phong](https://fb.me/paullee3ds) Chaiyapong Lapliengtrakul @[3DS Interactive](https://fb.me/3dsinteractive) [Slide](http://bit.ly/ngxs-slide)
 
