@@ -12,7 +12,7 @@
 
 1. Intro to ShadowDom and a new ViewEncapsulation in Angular 7, [Dave](https://fb.me/dave.akkradet) Akkradet - [Youtube](https://youtu.be/tHIcuk7Gm4c)
 1. Recap The Theory of Anular Ivy, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Youtube](https://youtu.be/aCmjNui0-Hc) | [Slide](https://docs.google.com/presentation/d/1sAzwCZlhXO8Y__Ltqe3dl2NxYE0M4wuJ-fuLYX3CSVU/edit?usp=sharing)
-1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM)
+1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM) | [Slide](https://www.slideshare.net/zixsma/angular-dependency-injection)
 
 Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
 
