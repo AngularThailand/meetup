@@ -52,7 +52,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 2. Angular 6.0 Panel Discussion
 3. Networking
 
-### [Jan](https://www.eventpop.me/e/2925) 30 @[Hangar](https://fb.me/HANGARCoworkingSpace)
+### [January](https://www.eventpop.me/e/2925) 30 @[Hangar](https://fb.me/HANGARCoworkingSpace)
 
 1. Create package on NPM by Khun Au 7.00 P.M. - 7.30 P.M.
 2. Make readable code in Angular with Lettable (Pipe) Operator by Khun Dave@7 Peaks. 7.30 PM - 8.00 PM
@@ -69,4 +69,4 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 ### [April](https://medium.com/angular-in-thailand/angular-bkk-meetup-2017-4-hello-ngrx-d5a1a4d07b05) 26 @[Sellsuki](https://fb.me/Sellsuki/)
 
 
-### [Feb](https://www.facebook.com/events/1916895178539036) 28 @[WOLF co-working space](https://fb.me/wolfcoworking)
+### [February](https://www.facebook.com/events/1916895178539036) 28 @[WOLF co-working space](https://fb.me/wolfcoworking)
