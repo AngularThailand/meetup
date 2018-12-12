@@ -61,3 +61,10 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 ### [Auguest](https://www.meetup.com/7Peaks-Tech-Events-Bangkok/events/242217583) 24 @[7 Peaks Software](https://fb.me/7peakssoftware)
 
 - Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet
+
+### [March](https://medium.com/angular-in-thailand/72858e51682b) 20 @[SET](https://fb.me/set.or.th)
+
+### [April](https://medium.com/angular-in-thailand/angular-bkk-meetup-2017-4-hello-ngrx-d5a1a4d07b05) 26 @[Sellsuki](https://fb.me/Sellsuki/)
+
+
+### [Feb](https://www.facebook.com/events/1916895178539036) 28 @[WOLF co-working space](https://fb.me/wolfcoworking)
