@@ -42,8 +42,8 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### [May](https://www.eventpop.me/e/3518-angular-meetup-th) 16 @[Hangar](https://fb.me/HANGARCoworkingSpace)
 
-1. View Encapsulation by Ole@ScoutOut
-2. NgRx Selector From Store To View by JaMe [Slide](https://docs.google.com/presentation/d/1d3puR8rTJBscRymhBcHqn2lEeKiI_01esA4_iVfe3Zw/edit?usp=sharing)
+1. View Encapsulation, Ole @ScoutOut
+2. NgRx Selector From Store To View, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Slide](https://docs.google.com/presentation/d/1d3puR8rTJBscRymhBcHqn2lEeKiI_01esA4_iVfe3Zw/edit?usp=sharing)
 3. Ivy Demo by Au
 
 ### [March](https://www.eventpop.me/e/3063-angular-meetup-march-2018) 5 @[LINK Collaboration Space](https://fb.me/linkspacebkk)
@@ -70,7 +70,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### March 28
 
-- Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) | [Evident](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
-- Nx, [Ball](https://fb.me/ball6847) Porawit Poboonma | [Evident](https://www.facebook.com/groups/angularjs.th/permalink/981378778703455/)
+- Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) | [Evidence](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
+- Nx, [Ball](https://fb.me/ball6847) Porawit Poboonma | [Evidence](https://www.facebook.com/groups/angularjs.th/permalink/981378778703455/)
 
 ### [February](https://www.facebook.com/events/1916895178539036) 28 @[WOLF co-working space](https://fb.me/wolfcoworking)
