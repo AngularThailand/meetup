@@ -60,7 +60,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ## 2017
 
-### [Auguest](https://www.meetup.com/7Peaks-Tech-Events-Bangkok/events/242217583) 24 @[7 Peaks Software](https://fb.me/7peakssoftware)
+### [August](https://www.meetup.com/7Peaks-Tech-Events-Bangkok/events/242217583) 24 @[7 Peaks Software](https://fb.me/7peakssoftware)
 
 - Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet - [Slide](https://drive.google.com/file/d/1kZWKoWRsEh7oHmaheb9nVOz82Ag0lwqh/view?usp=sharing)
 
