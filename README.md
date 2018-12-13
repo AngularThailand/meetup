@@ -33,8 +33,8 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
 
 #### Sponsors
-[LearnHub](https://fb.me/LearnHubCoLearningSpace)
-[Skooldio](https://fb.me/skooldio)
+[LearnHub](https://fb.me/LearnHubCoLearningSpace) |
+[Skooldio](https://fb.me/skooldio) |
 [Foodie](https://fb.me/foodiediscounts)
 
 ### [September](https://facebook.com/events/238868826802487/) 12 @[BIG Co-Working](https://fb.me/bigcowork)
@@ -46,10 +46,10 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 5. NGXS - State Management For Angular โดย [Phong](https://fb.me/paullee3ds) Chaiyapong Lapliengtrakul @[3DS Interactive](https://fb.me/3dsinteractive) | [Slide](http://bit.ly/ngxs-slide)
 
 #### Sponsors
-[BIG Co-working](https://fb.me/LearnHubCoLearningSpace)
-[Odds](https://fb.me/oddsteam)
-[Odd-e](https://fb.me/Odde.Thailand)
-[Humanize](https://fb.me/nizeai)
+[BIG Co-working](https://fb.me/LearnHubCoLearningSpace) |
+[Odds](https://fb.me/oddsteam) |
+[Odd-e](https://fb.me/Odde.Thailand) |
+[Humanize](https://fb.me/nizeai) |
 [Devcamp](https://fb.me/devcamper)
 
 ### [June](https://www.facebook.com/events/280593772483436/) 21 @[CØDE CRAFT](https://fb.me/codecraftbkk)
@@ -57,8 +57,8 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 - Panel Discussion [Slide](https://docs.google.com/presentation/d/1RnC43sSKyfGCBH1xCltK3r0Lw_gb2eRRkwWTbE_2ISk/edit?usp=sharing)
 
 #### Sponsors
-[CØDE CRAFT](https://fb.me/codecraftbkk)
-[Thai Programmer Association][https://fb.me/ThaiProgrammerSociety]
+[CØDE CRAFT](https://fb.me/codecraftbkk) |
+[Thai Programmer Association](https://fb.me/ThaiProgrammerSociety)
 
 ### [May](https://www.eventpop.me/e/3518-angular-meetup-th) 16 @[Hangar](https://fb.me/HANGARCoworkingSpace)
 
