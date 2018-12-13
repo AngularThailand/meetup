@@ -8,7 +8,7 @@
 
 1. Maxim Salnikov - GDE Angular PWA Evangelist
 
-#### Venue Sponsors
+#### Venue & Food Sponsors
 [Kaidee](https://fb.me/kaideecom) |
 [Zarewoft](https://fb.me/zarewoft)
 #### Platinum Sponsors
