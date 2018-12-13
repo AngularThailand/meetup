@@ -1,6 +1,6 @@
 # Angular Thailand Meetup
 
-## [Facebook](https://fb.me/angularth) | [Twitter](https://twitter.com/AngularThailand)
+## [Facebook Page](https://fb.me/angularth) | [Facebook Group](https://facebook.com/groups/angularjs.th) | [Twitter](https://twitter.com/AngularThailand)
 
 ## 2018
 
