@@ -62,7 +62,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### [Auguest](https://www.meetup.com/7Peaks-Tech-Events-Bangkok/events/242217583) 24 @[7 Peaks Software](https://fb.me/7peakssoftware)
 
-- Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet [Slide](https://drive.google.com/file/d/1kZWKoWRsEh7oHmaheb9nVOz82Ag0lwqh/view?usp=sharing)
+- Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet - [Slide](https://drive.google.com/file/d/1kZWKoWRsEh7oHmaheb9nVOz82Ag0lwqh/view?usp=sharing)
 
 ### [July](https://medium.com/angular-in-thailand/angular-bkk-meetup-2017-4-hello-ngrx-d5a1a4d07b05) 26 @[Sellsuki](https://fb.me/Sellsuki/)
 
@@ -70,7 +70,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### March 28 @[SCK Dojo](https://www.facebook.com/pages/SCK-Dojo/149871682443357)
 
-- Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) | [Evidence](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
-- Nx, [Ball](https://fb.me/ball6847) Porawit Poboonma | [Evidence](https://www.facebook.com/groups/angularjs.th/permalink/981378778703455/)
+- Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) - [Evidence](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
+- Nx, [Ball](https://fb.me/ball6847) Porawit Poboonma - [Evidence](https://www.facebook.com/groups/angularjs.th/permalink/981378778703455/)
 
 ### [February](https://www.facebook.com/events/1916895178539036) 28 @[WOLF co-working space](https://fb.me/wolfcoworking)
