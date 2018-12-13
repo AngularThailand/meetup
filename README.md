@@ -14,9 +14,9 @@
 #### Platinum Sponsors
 [Odds](https://fb.me/oddsteam) |
 [7 Peaks Software](https://fb.me/7peakssoftware)
-##### Gold Sponsors
+#### Gold Sponsors
 [Next Stack](https://fb.me/Next-Stack-587998208325444)
-##### Event Organizing Sponsors
+#### Event Organizing Sponsors
 [Thai Programmer Association](https://fb.me/ThaiProgrammerSociety)
 
 ### [November](https://www.facebook.com/events/536523386844377) 28 @[7 Peaks Software](https://fb.me/7peakssoftware)
