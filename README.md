@@ -116,6 +116,8 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 - Reactive Programming in Angular
 
+Ticket was give out in [Eventbrite](https://www.eventbrite.com/e/35335683982)
+
 ### March 28 @[SCK Dojo](https://www.facebook.com/pages/SCK-Dojo/149871682443357)
 
 1. Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) - [Evidence](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
