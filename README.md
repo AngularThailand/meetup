@@ -6,20 +6,20 @@
 
 ### [December](https://www.facebook.com/events/326475251520065) 26 @[Kaidee](https://fb.me/kaideecom)
 
-- [Maxim Salnikov](https://twitter.com/webmaxru) - GDE Angular PWA Evangelist - 
+1. [Maxim Salnikov](https://twitter.com/webmaxru) - GDE Angular PWA Evangelist
 
-Was [live](https://www.facebook.com/gucodelive/videos/vl.782818062063426/299123864064948/) in GuCode's fan page.
+- Was [live](https://www.facebook.com/gucodelive/videos/vl.782818062063426/299123864064948/) in GuCode's fan page. 
+- Ticket was give out with via [Eventpop](https://www.eventpop.me/e/4780)
 
-#### Venue & Food Sponsors
-[Kaidee](https://fb.me/kaideecom) |
-[Zarewoft](https://fb.me/zarewoft)
-#### Platinum Sponsors
-[ODDS](https://fb.me/oddsteam) |
-[7 Peaks Software](https://fb.me/7peakssoftware)
-#### Gold Sponsors
-[Next Stack](https://fb.me/Next-Stack-587998208325444)
-#### Event Organizing Sponsors
-[Thai Programmer Association](https://fb.me/ThaiProgrammerSociety)
+**Venue & Food Sponsors** [Kaidee](https://fb.me/kaideecom) 
+| [Zarewoft](https://fb.me/zarewoft)
+
+**Platinum Sponsors** [ODDS](https://fb.me/oddsteam) 
+| [7 Peaks Software](https://fb.me/7peakssoftware)
+
+**Gold Sponsors** [Next Hop](https://fb.me/nexthopthai/)
+
+**Event Organizing Sponsors** [Thai Programmer Association](https://fb.me/ThaiProgrammerSociety)
 
 ### [November](https://www.facebook.com/events/536523386844377) 28 @[7 Peaks Software](https://fb.me/7peakssoftware)
 
@@ -27,10 +27,10 @@ Was [live](https://www.facebook.com/gucodelive/videos/vl.782818062063426/2991238
 1. Recap The Theory of Anular Ivy, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Youtube](https://youtu.be/aCmjNui0-Hc) | [Slide](https://docs.google.com/presentation/d/1sAzwCZlhXO8Y__Ltqe3dl2NxYE0M4wuJ-fuLYX3CSVU/edit?usp=sharing)
 1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM) | [Slide](https://www.slideshare.net/zixsma/angular-dependency-injection)
 
-#### Hosted by
-[7 Peaks Software](https://fb.me/7peakssoftware)
+- Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
+- Ticket was give out with via [Eventpop](https://www.eventpop.me/e/4681)
 
-Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
+Big thanks to [7 Peaks Software](https://fb.me/7peakssoftware) for taste food good drink and best vanue.
 
 ### [October](https://facebook.com/events/326311217947848/) 30 @[LearnHub](https://fb.me/LearnHubCoLearningSpace)
 
@@ -42,12 +42,10 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 1. Angular x Line LIFF - [Slide](https://goo.gl/CktASq) | [Repo](https://github.com/ninxxxxx/ng-x-line-liff)
 1. Angular Boost up performance - [Slide](https://goo.gl/MMU3vM)
 
-Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
+- Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
+- Ticket was give out via [Eventpop](https://www.eventpop.me/e/4415)
 
-#### Sponsors
-[LearnHub](https://fb.me/LearnHubCoLearningSpace) |
-[Skooldio](https://fb.me/skooldio) |
-[Foodie](https://fb.me/foodiediscounts)
+**Sponsored by** [LearnHub](https://fb.me/LearnHubCoLearningSpace) | [Skooldio](https://fb.me/skooldio) | [Foodie](https://fb.me/foodiediscounts)
 
 ### [September](https://facebook.com/events/238868826802487/) 12 @[BIG Co-Working](https://fb.me/bigcowork)
 
@@ -57,7 +55,9 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 4. เริ่มต้นเขียน Test (Side) Effect กัน, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng @The Earth | [Slide](https://docs.google.com/presentation/d/1sGGxeHbAMuqgvjvh2OA_VWr7DWCEhjrO_xqc2lu0_zE/edit?fbclid=IwAR3DjiMfV-DhGhM7FhB2AArg_Y9edPIMtY3C-EH0B-RpUDATuBa8vqwyRHE)
 5. NGXS - State Management For Angular โดย [Phong](https://fb.me/paullee3ds) Chaiyapong Lapliengtrakul @[3DS Interactive](https://fb.me/3dsinteractive) | [Slide](http://bit.ly/ngxs-slide)
 
-#### Sponsors
+- Ticket was unlimited give out via [dev.wi.th](https://dev.wi.th/event/angular-thailand-meetup-september-2018)
+
+**Sponsored by**
 [BIG Co-working](https://fb.me/LearnHubCoLearningSpace) |
 [Odds](https://fb.me/oddsteam) |
 [Odd-e](https://fb.me/Odde.Thailand) |
@@ -66,9 +66,11 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### [June](https://www.facebook.com/events/280593772483436/) 21 @[CØDE CRAFT](https://fb.me/codecraftbkk)
 
-- Panel Discussion [Slide](https://docs.google.com/presentation/d/1RnC43sSKyfGCBH1xCltK3r0Lw_gb2eRRkwWTbE_2ISk/edit?usp=sharing)
+1. Panel Discussion [Slide](https://docs.google.com/presentation/d/1RnC43sSKyfGCBH1xCltK3r0Lw_gb2eRRkwWTbE_2ISk/edit?usp=sharing)
 
-#### Sponsors
+- Ticket was give out via [Eventpop](https://www.eventpop.me/e/3668)
+
+**Sponsored by**
 [CØDE CRAFT](https://fb.me/codecraftbkk) |
 [Thai Programmer Association](https://fb.me/ThaiProgrammerSociety)
 
@@ -78,7 +80,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 2. NgRx Selector From Store To View, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Slide](https://docs.google.com/presentation/d/1d3puR8rTJBscRymhBcHqn2lEeKiI_01esA4_iVfe3Zw/edit?usp=sharing)
 3. Ivy Demo by Au
 
-#### Sponsors
+**Sponsored by**
 [Hangar Coworking Space](https://fb.me/HANGARCoworkingSpace)
 
 ### [March](https://www.eventpop.me/e/3063-angular-meetup-march-2018) 5 @[LINK Collaboration Space](https://fb.me/linkspacebkk)
@@ -87,7 +89,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 2. Angular 6.0 Panel Discussion
 3. Networking
 
-#### Sponsors
+**Sponsored by**
 [LINK Collaboration Space](https://fb.me/linkspacebkk)
 
 ### [January](https://www.eventpop.me/e/2925) 30 @[Hangar](https://fb.me/HANGARCoworkingSpace)
@@ -96,7 +98,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 2. Make readable code in Angular with Lettable (Pipe) Operator by Khun Dave@7 Peaks. 7.30 PM - 8.00 PM
 3. Angular CI/CD with DroneCI by Khun Ball@Home 8.00 - 8.30 P.M.
 
-#### Sponsors
+**Sponsored by**
 [Hangar Coworking Space](https://fb.me/HANGARCoworkingSpace)
 
 ## 2017
@@ -105,8 +107,7 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 - Reactive Applications with Angular 4, [Dave](https://fb.me/dave.akkradet) Akkradet - [Slide](https://drive.google.com/file/d/1kZWKoWRsEh7oHmaheb9nVOz82Ag0lwqh/view?usp=sharing)
 
-#### Hosted by
-[7 Peaks Software](https://fb.me/7peakssoftware)
+**Hosted by** [7 Peaks Software](https://fb.me/7peakssoftware)
 
 ### [July](https://medium.com/angular-in-thailand/angular-bkk-meetup-2017-4-hello-ngrx-d5a1a4d07b05) 26 @[Sellsuki](https://fb.me/Sellsuki/)
 
@@ -123,7 +124,7 @@ Ticket was give out in [Eventbrite](https://www.eventbrite.com/e/35335683982)
 1. Build Pipeline, [พี่ต้น](https://fb.me/tonmanna) - [Evidence](https://www.facebook.com/photo.php?fbid=10216300907660172&set=p.10216300907660172)
 2. Nx, [Ball](https://fb.me/ball6847) Porawit Poboonma - [Evidence](https://www.facebook.com/groups/angularjs.th/permalink/981378778703455/)
 
-#### Sponsors
+**Sponsored by**
 [SCK Dojo](https://www.facebook.com/pages/SCK-Dojo/149871682443357)
 
 ### [February](https://www.facebook.com/events/1916895178539036) 28 @[WOLF co-working space](https://fb.me/wolfcoworking)
