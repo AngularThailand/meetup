@@ -6,7 +6,7 @@
 
 ### [December](https://www.facebook.com/events/326475251520065) 26 @[Kaidee](https://fb.me/kaideecom)
 
-1. Maxim Salnikov - GDE Angular PWA Evangelist
+1. Maxim Salnikov - GDE Angular PWA Evangelist - [Facebook Live](https://www.facebook.com/gucodelive/videos/vl.782818062063426/299123864064948/)
 
 #### Venue & Food Sponsors
 [Kaidee](https://fb.me/kaideecom) |
