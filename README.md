@@ -110,6 +110,8 @@ Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan 
 
 ### [July](https://medium.com/angular-in-thailand/angular-bkk-meetup-2017-4-hello-ngrx-d5a1a4d07b05) 26 @[Sellsuki](https://fb.me/Sellsuki/)
 
+- Hello World NgRx by [Amp](https://fb.me/amp.tanawat) Tanawat Tassana and K.Tum
+
 ### [June](https://medium.com/angular-in-thailand/72858e51682b) 20 @[SET](https://fb.me/set.or.th)
 
 ### March 28 @[SCK Dojo](https://www.facebook.com/pages/SCK-Dojo/149871682443357)
