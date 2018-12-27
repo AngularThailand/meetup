@@ -12,7 +12,7 @@
 [Kaidee](https://fb.me/kaideecom) |
 [Zarewoft](https://fb.me/zarewoft)
 #### Platinum Sponsors
-[Odds](https://fb.me/oddsteam) |
+[ODDS](https://fb.me/oddsteam) |
 [7 Peaks Software](https://fb.me/7peakssoftware)
 #### Gold Sponsors
 [Next Stack](https://fb.me/Next-Stack-587998208325444)
