@@ -4,7 +4,7 @@
 
 ## 2019
 
-### [July] (https://www.facebook.com/events/340697073485865/) 30 @[7 Peaks Software](https://fb.me/7peaksoftware)
+### [July](https://www.facebook.com/events/340697073485865/) 30 @[7 Peaks Software](https://fb.me/7peaksoftware)
 [ODDS](https://fb.me/oddsteam) 
 
 1. What's new in Angular 8 by [Devnote](https://www.facebook.com/devnoteio) Nutti Saelor @[7 Peaks Software](https://fb.me/7peakssoftware) | [Slide](https://slides.com/leelorz/let-s-talk-about-8/)
