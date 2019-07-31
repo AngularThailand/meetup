@@ -18,6 +18,10 @@
 
 **Hosted by** [7 Peaks Software](https://fb.me/7peakssoftware)
 
+### [April](https://www.facebook.com/events/308574546732326) 30 @[SET](https://www.facebook.com/set.or.th/)
+1. [Yosapol Piriyapruen](https://www.facebook.com/aaeang) @ [SET](https://www.facebook.com/set.or.th/) - Enterprise Angular in SET
+
+
 ## 2018
 
 ### [December](https://www.facebook.com/events/326475251520065) 26 @[Kaidee](https://fb.me/kaideecom)
