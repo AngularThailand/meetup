@@ -7,16 +7,15 @@
 ### [July] (https://www.facebook.com/events/340697073485865/) 30 @[7 Peaks Software](https://fb.me/7peaksoftware)
 [ODDS](https://fb.me/oddsteam) 
 
-1. What's new in Angular 8 by [Devnote](https://www.facebook.com/devnoteio) Nutti Saelor @[7 Peaks Software](https://fb.me/7peakssoftware) | [Slide](https://slides.com/leelo
-rz/let-s-talk-about-8/)
+1. What's new in Angular 8 by [Devnote](https://www.facebook.com/devnoteio) Nutti Saelor @[7 Peaks Software](https://fb.me/7peakssoftware) | [Slide](https://slides.com/leelorz/let-s-talk-about-8/)
 
-2. RxJS streams handling (as it should be) for Padawan by (JJ)[https://www.facebook.com/jj.witaya] Witaya JJ Tospitakkul @[ODDS](https://fb.me/oddsteam) | [Slide](https://docs.google.com/presentation/d/)1rMwoz4DlyUif2oE6kNrgLA7tuXjYtWPI_aX5hr77bHU/mobilepresent?slide=id.g5e0ddcf789_0_213
+2. RxJS streams handling (as it should be) for Padawan by [JJ](https://www.facebook.com/jj.witaya) Witaya JJ Tospitakkul @[ODDS](https://fb.me/oddsteam) | [Slide](https://docs.google.com/presentation/d/1rMwoz4DlyUif2oE6kNrgLA7tuXjYtWPI_aX5hr77bHU/mobilepresent?slide=id.g5e0ddcf789_0_213)
 
-3. ABC: Angular, Bazel, CLI by (Wut)[https://www.facebook.com/vorrawut.judasri] Vorrawut Judasri @[ODDS](https://fb.me/oddsteam) | [Slide](https://drive.google.com/file/d/105fty3OELQg1Ebrd9mn-ZaflhI05JmMQ/view?usp=drivesdk)
+3. ABC: Angular, Bazel, CLI by [Wut](https://www.facebook.com/vorrawut.judasri) Vorrawut Judasri @[ODDS](https://fb.me/oddsteam) | [Slide](https://drive.google.com/file/d/105fty3OELQg1Ebrd9mn-ZaflhI05JmMQ/view?usp=drivesdk)
 
-4. Subjecting State to Good Behavior by (Kea)[https://www.facebook.com/phat.pan] Phatcharaphan Ananpreechakun @[ODDS](https://fb.me/oddsteam) | [Slide](http://bit.ly/2OmEisq)
-5. Nx: Angular CLI Power-ups for your modern Development by [Jame](https://fb.me/perjerz.thailand)Siwat Kaolueng @7 Peaks Software | [Slide](https://docs.google.com/presentation/d/1xiyIEMR3dA7vuBHMLivBb2WUwTHYF0yjz_kld42L2VE/edit?usp=sharing)
-6. How We Build NG-MY Websites: Performance, SEO, CI, CD by (Jecelyn Yeen)[https://twitter.com/JecelynYeen] @[Google Developer Expert](https://google-developers.appspot.com/community/experts/directory/profile/profile-jecelyn_yeen) | [Slide](https://bit.ly/ng-my-site-th)
+4. Subjecting State to Good Behavior by [Kea](https://www.facebook.com/phat.pan) Phatcharaphan Ananpreechakun @[ODDS](https://fb.me/oddsteam) | [Slide](http://bit.ly/2OmEisq)
+5. Nx: Angular CLI Power-ups for your modern Development by [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng @7 Peaks Software | [Slide](https://docs.google.com/presentation/d/1xiyIEMR3dA7vuBHMLivBb2WUwTHYF0yjz_kld42L2VE/edit?usp=sharing)
+6. How We Build NG-MY Websites: Performance, SEO, CI, CD by [Jecelyn Yeen](https://twitter.com/JecelynYeen) @[Google Developer Expert](https://google-developers.appspot.com/community/experts/directory/profile/profile-jecelyn_yeen) | [Slide](https://bit.ly/ng-my-site-th)
 
 **Hosted by** [7 Peaks Software](https://fb.me/7peakssoftware)
 
