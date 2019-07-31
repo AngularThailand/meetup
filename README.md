@@ -2,6 +2,24 @@
 
 ## [Facebook Page](https://fb.me/angularth) | [Facebook Group](https://facebook.com/groups/angularjs.th) | [Twitter](https://twitter.com/AngularThailand)
 
+## 2019
+
+### [July] (https://www.facebook.com/events/340697073485865/) 30 @[7 Peaks Software](https://fb.me/7peaksoftware)
+[ODDS](https://fb.me/oddsteam) 
+
+1. What's new in Angular 8 by [Devnote](https://www.facebook.com/devnoteio) Nutti Saelor @[7 Peaks Software](https://fb.me/7peakssoftware) | [Slide](https://slides.com/leelo
+rz/let-s-talk-about-8/)
+
+2. RxJS streams handling (as it should be) for Padawan by (JJ)[https://www.facebook.com/jj.witaya] Witaya JJ Tospitakkul @[ODDS](https://fb.me/oddsteam) | [Slide](https://docs.google.com/presentation/d/)1rMwoz4DlyUif2oE6kNrgLA7tuXjYtWPI_aX5hr77bHU/mobilepresent?slide=id.g5e0ddcf789_0_213
+
+3. ABC: Angular, Bazel, CLI by (Wut)[https://www.facebook.com/vorrawut.judasri] Vorrawut Judasri @[ODDS](https://fb.me/oddsteam) | [Slide](https://drive.google.com/file/d/105fty3OELQg1Ebrd9mn-ZaflhI05JmMQ/view?usp=drivesdk)
+
+4. Subjecting State to Good Behavior by (Kea)[https://www.facebook.com/phat.pan] Phatcharaphan Ananpreechakun @[ODDS](https://fb.me/oddsteam) | [Slide](http://bit.ly/2OmEisq)
+5. Nx: Angular CLI Power-ups for your modern Development by [Jame](https://fb.me/perjerz.thailand)Siwat Kaolueng @7 Peaks Software | [Slide](https://docs.google.com/presentation/d/1xiyIEMR3dA7vuBHMLivBb2WUwTHYF0yjz_kld42L2VE/edit?usp=sharing)
+6. How We Build NG-MY Websites: Performance, SEO, CI, CD by (Jecelyn Yeen)[https://twitter.com/JecelynYeen] @[Google Developer Expert](https://google-developers.appspot.com/community/experts/directory/profile/profile-jecelyn_yeen) | [Slide](https://bit.ly/ng-my-site-th)
+
+**Hosted by** [7 Peaks Software](https://fb.me/7peakssoftware)
+
 ## 2018
 
 ### [December](https://www.facebook.com/events/326475251520065) 26 @[Kaidee](https://fb.me/kaideecom)
@@ -24,8 +42,8 @@
 ### [November](https://www.facebook.com/events/536523386844377) 28 @[7 Peaks Software](https://fb.me/7peakssoftware)
 
 1. Intro to ShadowDom and a new ViewEncapsulation in Angular 7, [Dave](https://fb.me/dave.akkradet) Akkradet - [Youtube](https://youtu.be/tHIcuk7Gm4c) [Slide](https://docs.google.com/presentation/d/18N_OpCA4dzCZKPHv3rysCUJEDAzvbRpq18x7CS13BX8/edit?usp=sharing)
-1. Recap The Theory of Anular Ivy, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Youtube](https://youtu.be/aCmjNui0-Hc) | [Slide](https://docs.google.com/presentation/d/1sAzwCZlhXO8Y__Ltqe3dl2NxYE0M4wuJ-fuLYX3CSVU/edit?usp=sharing)
-1. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM) | [Slide](https://www.slideshare.net/zixsma/angular-dependency-injection)
+2. Recap The Theory of Anular Ivy, [Jame](https://fb.me/perjerz.thailand) Siwat Kaolueng - [Youtube](https://youtu.be/aCmjNui0-Hc) | [Slide](https://docs.google.com/presentation/d/1sAzwCZlhXO8Y__Ltqe3dl2NxYE0M4wuJ-fuLYX3CSVU/edit?usp=sharing)
+3. Deep Dive Dependency Injection, [Tum](https://fb.me/zixsma) Tanakrit Saisillapee - [Youtube](https://youtu.be/Lt5f0_tiRSM) | [Slide](https://www.slideshare.net/zixsma/angular-dependency-injection)
 
 - Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
 - Ticket was give out with via [Eventpop](https://www.eventpop.me/e/4681)
@@ -35,12 +53,12 @@ Big thanks to [7 Peaks Software](https://fb.me/7peakssoftware) for taste food go
 ### [October](https://facebook.com/events/326311217947848/) 30 @[LearnHub](https://fb.me/LearnHubCoLearningSpace)
 
 1. What's New in Angular 7 - [Slide](https://slides.com/leelorz/deck/)
-1. Continuous everything with Angular, TravisCI, and Firebase Hosting - [Slide](https://goo.gl/sBUh9R) | [CircleCI + TravisCI Repo](https://github.com/angularthailand/who-use-angular-in-thailand/) | [TravisCI Repo](https://github.com/perjerz3434/continuous-everything)
-1. Public private protected จำเป็นไหม - [Slide](https://goo.gl/KWopaa)
-1. Fullstack Apollo App with Autodigi - [Slide](https://goo.gl/paM1F3) | [Repo](https://github.com/tonmanna/labGQLNgMeetup)
-1. Angular + .NET Core = Awesome - [Slide](https://goo.gl/4XnH1C)
-1. Angular x Line LIFF - [Slide](https://goo.gl/CktASq) | [Repo](https://github.com/ninxxxxx/ng-x-line-liff)
-1. Angular Boost up performance - [Slide](https://goo.gl/MMU3vM)
+2. Continuous everything with Angular, TravisCI, and Firebase Hosting - [Slide](https://goo.gl/sBUh9R) | [CircleCI + TravisCI Repo](https://github.com/angularthailand/who-use-angular-in-thailand/) | [TravisCI Repo](https://github.com/perjerz3434/continuous-everything)
+3. Public private protected จำเป็นไหม - [Slide](https://goo.gl/KWopaa)
+4. Fullstack Apollo App with Autodigi - [Slide](https://goo.gl/paM1F3) | [Repo](https://github.com/tonmanna/labGQLNgMeetup)
+5. Angular + .NET Core = Awesome - [Slide](https://goo.gl/4XnH1C)
+6. Angular x Line LIFF - [Slide](https://goo.gl/CktASq) | [Repo](https://github.com/ninxxxxx/ng-x-line-liff)
+7. Angular Boost up performance - [Slide](https://goo.gl/MMU3vM)
 
 - Was [live](https://facebook.com/oddsteam/videos/1032265250267571) in ODDS's fan page.
 - Ticket was give out via [Eventpop](https://www.eventpop.me/e/4415)
