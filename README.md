@@ -21,6 +21,7 @@
 ### [April](https://www.facebook.com/events/308574546732326) 30 @[SET](https://www.facebook.com/set.or.th/)
 1. [Yosapol Piriyapruen](https://www.facebook.com/aaeang) @ [SET](https://www.facebook.com/set.or.th/) - Enterprise Angular in SET
 
+**Hosted by** [SET](https://www.facebook.com/set.or.th/)
 
 ## 2018
 
