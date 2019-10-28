@@ -4,6 +4,19 @@
 
 ## 2019
 
+### [October](https://www.facebook.com/events/546605262836573) @[AWS Thailand at Singh Complex](https://www.facebook.com/pages/AWS-Thailand-at-Singh-Complex/1198060983709722)
+
+1. Universal rendering the dynamic way by Voravit Srikuruwal @[FlowAccount](https://fb.me/flowaccount/)
+2. Serverless Angular with AWS by [Atthaporn](https://fb.me/arthur.paul.tha) Thanongkiatisak @[EGG Digital](https://fb.me/byeggdigital), [Ascend Group](https://ascendcorp.com)
+3. ~~NO RUNTIME EXCEPTION with Elm by [Tanawat](https://fb.me/amp.tanawat) Tassana @ [Hotnow](https://fb.me/hotnow.application/)~~
+4. Angular and Open Source Tools โดย [JaMe](https://fb.me/perjerz.thailand) Siwat Kaolueng @7 [Peaks Software](https://fb.me/7peaksoftware)
+
+**Hosted by** [AWS Thailand at Singh Complex](https://www.facebook.com/pages/AWS-Thailand-at-Singh-Complex/1198060983709722)
+
+**Sponsored by** FlowAccount.com
+
+NOTE: First time that cannot walked-in.
+
 ### [July](https://www.facebook.com/events/340697073485865/) 30 @[7 Peaks Software](https://fb.me/7peaksoftware) 
 
 1. What's new in Angular 8 by [Devnote](https://www.facebook.com/devnoteio) Nutti Saelor @[7 Peaks Software](https://fb.me/7peakssoftware) | [Slide](https://slides.com/leelorz/let-s-talk-about-8/)
